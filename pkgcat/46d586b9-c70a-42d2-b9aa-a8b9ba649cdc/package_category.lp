@@ -1,0 +1,10 @@
+(librepcb_package_category 46d586b9-c70a-42d2-b9aa-a8b9ba649cdc
+ (name "LILYGO")
+ (description "")
+ (keywords "")
+ (author "Tubbles")
+ (version "0.1")
+ (created 2022-05-08T19:16:28Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
