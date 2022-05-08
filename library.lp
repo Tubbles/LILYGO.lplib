@@ -1,0 +1,10 @@
+(librepcb_library 239b0bd3-68ef-47c4-82d6-cc771884d928
+ (name "LILYGO")
+ (description "IoT MCUs (unofficial)")
+ (keywords "")
+ (author "Tubbles")
+ (version "0.1")
+ (created 2022-05-08T17:45:08Z)
+ (deprecated false)
+ (url "")
+)
