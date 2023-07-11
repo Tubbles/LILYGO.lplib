@@ -55,7 +55,7 @@
  (signal fa7e9d02-231b-4d75-bce5-e5a5710be240 (name "GPIO18") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
- (signal 216da545-a88b-4d3f-8d47-af0d3af393de (name "RST/EN") (role passive)
+ (signal 216da545-a88b-4d3f-8d47-af0d3af393de (name "!RST/EN") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )
  (signal 9020a003-3b80-458c-8dc9-8ebfdc67c0c4 (name "GPIO4") (role passive)
